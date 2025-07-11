@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Yeboah Bonsu
 
-🎓 Biomedical Engineer | 💻 ASoftware & ML Engineer  
+🎓 Biomedical Engineer | 💻 Software & ML Engineer  
 🧠 Passionate about Neuroimaging, AI for Health, and Cloud Computing
 
 ---
